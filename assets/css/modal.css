@@ -92,3 +92,7 @@
     width: 40%;
     max-width: 40%;
 }
+.modal-body .specs .modal-list{
+    text-transform: capitalize;
+    list-style: none;
+}
